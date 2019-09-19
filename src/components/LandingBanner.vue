@@ -3,10 +3,7 @@
     <div class="bg">
       <div class="columns content is-desktop">
         <div class="column">
-          HELLO
-        </div>
-        <div class="column">
-          HELLO
+          <h1>HELLO</h1>
         </div>
       </div>
     </div>
@@ -29,6 +26,7 @@
 .banner .content {
   padding: 15%;
   color: white;
+  text-align: center;
 }
 
 .banner .bg {
